@@ -1,4 +1,4 @@
-# About Me - Overview
+# Overview
 
 ## Who I Am
 
@@ -30,7 +30,7 @@ Currently completing industrial training at Latitude Innovation Sdn. Bhd. as a W
 
 ## Quick Links
 
-- 📧 Email: [nfarees.faizal@gmail.com](mailto:nfarees.faizal@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/nikfarees](https://linkedin.com/in/nikfarees)
-- 🐙 GitHub: [github.com/NikFarees](https://github.com/NikFarees)
-- 📱 Phone: +601175112905
+- Email: [nfarees.faizal@gmail.com](mailto:nfarees.faizal@gmail.com)
+- LinkedIn: [linkedin.com/in/nikfarees](https://linkedin.com/in/nikfarees)
+- GitHub: [github.com/NikFarees](https://github.com/NikFarees)
+- Phone: +601175112905

@@ -31,6 +31,6 @@ I believe in:
 ## Interests
 
 Beyond coding, I'm interested in:
-- 🥋 **Martial Arts** - Black Belt in Taekwondo and Red Belt in Silat
-- 📖 **Continuous Learning** - Always exploring new technologies
-- 🤝 **Mentorship** - Helping others learn programming concepts
+- **Martial Arts** - Black Belt in Taekwondo and Red Belt in Silat
+- **Continuous Learning** - Always exploring new technologies
+- **Mentorship** - Helping others learn programming concepts

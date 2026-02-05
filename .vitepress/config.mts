@@ -33,7 +33,7 @@ export default defineConfig({
                     items: [
                         { text: 'Overview', link: '/about/overview' },
                         { text: 'Background', link: '/about/background' },
-                        { text: 'Goals', link: '/about/goals' }
+                        { text: 'Career Goals', link: '/about/goals' }
                     ]
                 }
             ],

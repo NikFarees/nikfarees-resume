@@ -3,9 +3,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     title: "Nik Farees",
     description: "Software Engineer & Productivity Consultant",
+    base: '/nikfarees-resume/',
 
     head: [
-        ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+        ['link', { rel: 'icon', type: 'image/svg+xml', href: '/nikfarees-resume/logo.svg' }],
         ['meta', { name: 'theme-color', content: '#5f67ee' }],
         ['meta', { property: 'og:type', content: 'website' }],
         ['meta', { property: 'og:title', content: 'Nik Farees - Resume' }],

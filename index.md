@@ -4,7 +4,7 @@ title: Nik Farees Resume
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,10 +43,9 @@ title: Nik Farees Resume
             </div>
             
             <div class="nav-section">
-                <h3>Roles</h3>
+                <h3>Documentation</h3>
                 <ul>
-                    <li><a href="#ceo" class="nav-link">CEO & Consultant</a></li>
-                    <li><a href="#developer" class="nav-link">Developer</a></li>
+                    <li><a href="/docs" class="nav-link">📚 Full Resume</a></li>
                 </ul>
             </div>
         </div>
@@ -65,31 +64,41 @@ title: Nik Farees Resume
             </div>
         </section>
 
+        <!-- About Section -->
+        <section class="content-section" id="about-details">
+            <h2>About Me</h2>
+            <p>I'm a Software Engineering student at University Kuala Lumpur (UniKL MIIT) with strong backend and frontend development skills. Currently completing internship at Latitude Innovation as a Web Developer.</p>
+            <p><strong>GPA:</strong> 3.81 | <strong>Location:</strong> Kuala Lumpur, Malaysia | <strong>Available:</strong> March 2026</p>
+        </section>
+
         <!-- Experience Section -->
         <section class="content-section" id="experience">
             <h2>Experience</h2>
             
-            <div class="experience-card" id="ceo">
+            <div class="experience-card">
                 <div class="card-header">
-                    <h3>CEO – Captain Productivity Solutions</h3>
-                    <span class="date-badge">2022 – Present</span>
+                    <h3>🧑‍💼 Web Developer Intern</h3>
+                    <span class="date-badge">Sep 2025 – Feb 2026</span>
                 </div>
+                <p><strong>Latitude Innovation Sdn. Bhd.</strong></p>
                 <ul class="card-content">
-                    <li>Lean / Kaizen consulting for organizations</li>
-                    <li>Productivity assessments & audits</li>
-                    <li>Training, certification, and facilitation</li>
+                    <li>Full-stack development with Laravel, Next.js, Filament</li>
+                    <li>System integration, testing, and deployment</li>
+                    <li>Database design and API development</li>
+                    <li>Cloudflare configuration and SMTP setup</li>
                 </ul>
             </div>
 
-            <div class="experience-card" id="developer">
+            <div class="experience-card">
                 <div class="card-header">
-                    <h3>Developer – School2U Platform</h3>
-                    <span class="date-badge">2023 – Present</span>
+                    <h3>👨‍🏫 Lecturer Assistant</h3>
+                    <span class="date-badge">Oct 2023 – Mar 2024</span>
                 </div>
+                <p><strong>University Kuala Lumpur (MIIT)</strong></p>
                 <ul class="card-content">
-                    <li>Multi-vendor education marketplace</li>
-                    <li>WooCommerce + Laravel integration</li>
-                    <li>Vendor automation workflows</li>
+                    <li>Assisted in conducting programming classes</li>
+                    <li>Supported students with coursework and concepts</li>
+                    <li>Prepared course materials and graded assignments</li>
                 </ul>
             </div>
         </section>
@@ -98,15 +107,31 @@ title: Nik Farees Resume
         <section class="content-section" id="projects">
             <h2>Projects</h2>
             <div class="projects-grid">
-                <div class="project-card" data-tags="school wordpress woocommerce">
+                <div class="project-card" data-tags="auction laravel websocket">
                     <div class="project-header">
-                        <h3>School2U Booklist Platform</h3>
+                        <h3>🏆 Gmart Online Auction</h3>
                         <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
                             <span class="like-icon">♡</span>
                             <span class="like-count">0</span>
                         </button>
                     </div>
-                    <p class="project-description">Created an online bookshop system for schools using WordPress WooCommerce with customized features for bulk order management and inventory tracking.</p>
+                    <p class="project-description">Malaysia's biggest online auction platform with real-time bidding using WebSocket, Laravel backend, and Next.js frontend.</p>
+                    <div class="project-tags">
+                        <span class="tag">Laravel</span>
+                        <span class="tag">Next.js</span>
+                        <span class="tag">WebSocket</span>
+                    </div>
+                </div>
+
+                <div class="project-card" data-tags="school2u wordpress woocommerce">
+                    <div class="project-header">
+                        <h3>📚 School2U Bookshop</h3>
+                        <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
+                            <span class="like-icon">♡</span>
+                            <span class="like-count">0</span>
+                        </button>
+                    </div>
+                    <p class="project-description">Online bookshop system for schools using WordPress WooCommerce with bulk order management and inventory tracking.</p>
                     <div class="project-tags">
                         <span class="tag">WordPress</span>
                         <span class="tag">WooCommerce</span>
@@ -114,47 +139,31 @@ title: Nik Farees Resume
                     </div>
                 </div>
 
-                <div class="project-card" data-tags="esg analytics dashboard">
+                <div class="project-card" data-tags="driveflow php mysql management">
                     <div class="project-header">
-                        <h3>ESG Analytics Dashboard</h3>
+                        <h3>🚗 DriveFlow Management System</h3>
                         <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
                             <span class="like-icon">♡</span>
                             <span class="like-count">0</span>
                         </button>
                     </div>
-                    <p class="project-description">Developed a comprehensive analytics dashboard for ESG (Environmental, Social, Governance) metrics and reporting.</p>
+                    <p class="project-description">Full-stack driving school management system with automated license booking, scheduling, and payment processing.</p>
                     <div class="project-tags">
-                        <span class="tag">Analytics</span>
-                        <span class="tag">Dashboard</span>
-                        <span class="tag">Data Visualization</span>
-                    </div>
-                </div>
-
-                <div class="project-card" data-tags="automation vendor laravel">
-                    <div class="project-header">
-                        <h3>Vendor Automation Systems</h3>
-                        <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
-                            <span class="like-icon">♡</span>
-                            <span class="like-count">0</span>
-                        </button>
-                    </div>
-                    <p class="project-description">Built automated workflows for vendor management and order processing, reducing manual operations and improving efficiency.</p>
-                    <div class="project-tags">
-                        <span class="tag">Laravel</span>
-                        <span class="tag">Automation</span>
+                        <span class="tag">PHP</span>
                         <span class="tag">MySQL</span>
+                        <span class="tag">Bootstrap</span>
                     </div>
                 </div>
 
-                <div class="project-card" data-tags="kidenroll preschool wordpress">
+                <div class="project-card" data-tags="kidzenroll preschool wordpress">
                     <div class="project-header">
-                        <h3>Kidenroll – Preschool Website Network</h3>
+                        <h3>👶 Kidzenroll Network</h3>
                         <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
                             <span class="like-icon">♡</span>
                             <span class="like-count">0</span>
                         </button>
                     </div>
-                    <p class="project-description">Developed and managed a network of preschool websites using WordPress with Cloudflare DNS management and strong SEO optimization.</p>
+                    <p class="project-description">Network of preschool websites using WordPress with Cloudflare DNS management and SEO optimization.</p>
                     <div class="project-tags">
                         <span class="tag">WordPress</span>
                         <span class="tag">Cloudflare</span>
@@ -162,35 +171,35 @@ title: Nik Farees Resume
                     </div>
                 </div>
 
-                <div class="project-card" data-tags="aitra consultancy wordpress">
+                <div class="project-card" data-tags="atita consultancy wordpress">
                     <div class="project-header">
-                        <h3>Aitra Space - Consultancy Website</h3>
+                        <h3>💼 Atita Space Website</h3>
                         <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
                             <span class="like-icon">♡</span>
                             <span class="like-count">0</span>
                         </button>
                     </div>
-                    <p class="project-description">Developed and managed a professional consultancy website using WordPress with client coordination and content management.</p>
+                    <p class="project-description">Professional consultancy website built with WordPress including email integration and Google Search Console setup.</p>
                     <div class="project-tags">
                         <span class="tag">WordPress</span>
                         <span class="tag">Web Design</span>
-                        <span class="tag">CMS</span>
+                        <span class="tag">SMTP</span>
                     </div>
                 </div>
 
-                <div class="project-card" data-tags="driveflow school management php">
+                <div class="project-card" data-tags="swathub documentation vitepress">
                     <div class="project-header">
-                        <h3>DriveFlow - School Management System</h3>
+                        <h3>📖 SwatHub Documentation</h3>
                         <button class="like-btn" onclick="toggleLike(this)" title="Like this project">
                             <span class="like-icon">♡</span>
                             <span class="like-count">0</span>
                         </button>
                     </div>
-                    <p class="project-description">Built a full-stack web application for driving school management with automated license booking and digital operations.</p>
+                    <p class="project-description">Comprehensive technical documentation site using VitePress with role-based guides for Super Admin and other user roles.</p>
                     <div class="project-tags">
-                        <span class="tag">PHP</span>
-                        <span class="tag">MySQL</span>
-                        <span class="tag">Bootstrap</span>
+                        <span class="tag">VitePress</span>
+                        <span class="tag">Markdown</span>
+                        <span class="tag">Documentation</span>
                     </div>
                 </div>
             </div>
@@ -202,28 +211,30 @@ title: Nik Farees Resume
             
             <div class="skills-container">
                 <div class="skill-group">
-                    <h3>Technical Skills</h3>
+                    <h3>💻 Technical Skills</h3>
                     <div class="skills-list">
                         <span class="skill-tag">PHP / Laravel</span>
-                        <span class="skill-tag">WordPress / WooCommerce</span>
-                        <span class="skill-tag">SQL / MySQL</span>
-                        <span class="skill-tag">Git / Docker</span>
-                        <span class="skill-tag">JavaScript</span>
-                        <span class="skill-tag">HTML / CSS</span>
+                        <span class="skill-tag">JavaScript / Next.js</span>
                         <span class="skill-tag">React.js</span>
-                        <span class="skill-tag">Next.js</span>
+                        <span class="skill-tag">WordPress / WooCommerce</span>
+                        <span class="skill-tag">MySQL / SQLite</span>
+                        <span class="skill-tag">HTML / CSS</span>
+                        <span class="skill-tag">Git / Docker</span>
+                        <span class="skill-tag">Filament Admin</span>
                     </div>
                 </div>
 
                 <div class="skill-group">
-                    <h3>Consulting & Training</h3>
+                    <h3>🎓 Other Skills</h3>
                     <div class="skills-list">
-                        <span class="skill-tag">Lean / Kaizen</span>
-                        <span class="skill-tag">Productivity Assessment</span>
-                        <span class="skill-tag">Training Design</span>
-                        <span class="skill-tag">Non-Formal Education</span>
                         <span class="skill-tag">System Design</span>
-                        <span class="skill-tag">Process Automation</span>
+                        <span class="skill-tag">Database Design</span>
+                        <span class="skill-tag">API Development</span>
+                        <span class="skill-tag">Technical Documentation</span>
+                        <span class="skill-tag">Problem Solving</span>
+                        <span class="skill-tag">Team Collaboration</span>
+                        <span class="skill-tag">Communication</span>
+                        <span class="skill-tag">Lean/Kaizen</span>
                     </div>
                 </div>
             </div>
@@ -231,11 +242,21 @@ title: Nik Farees Resume
 
         <!-- Education Section -->
         <section class="content-section" id="education">
-            <h2>Education</h2>
+            <h2>Education & Achievements</h2>
             <div class="education-card">
-                <h3>Bachelor of Science in Software Engineering</h3>
-                <p>University Kuala Lumpur (UniKL)</p>
-                <span class="date-badge">Sep 2022 - Feb 2026</span>
+                <h3>🎓 Bachelor of IT (Hons) in Software Engineering</h3>
+                <p><strong>University Kuala Lumpur (UniKL MIIT)</strong></p>
+                <p><strong>Sep 2022 – Feb 2026 | GPA: 3.81</strong></p>
+                <p>✓ Dean's List (All 6 Semesters) | ✓ Best Student Award | ✓ Black Belt Taekwondo</p>
+            </div>
+            <div class="education-card">
+                <h3>📜 Certifications</h3>
+                <ul class="card-content">
+                    <li>Microsoft Certified - Azure AI Fundamentals (2024)</li>
+                    <li>CompTIA Cloud+ ce Certification (2024)</li>
+                    <li>Google Project Management Professional Certificate (2024)</li>
+                    <li>Top Coders 2024 - Python Programming</li>
+                </ul>
             </div>
         </section>
 
@@ -243,9 +264,15 @@ title: Nik Farees Resume
         <section class="content-section" id="contact">
             <h2>Get In Touch</h2>
             <div class="contact-info">
-                <p><strong>Email:</strong> <a href="mailto:nfarees.faizal@gmail.com">nfarees.faizal@gmail.com</a></p>
-                <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nikfarees" target="_blank">linkedin.com/in/nikfarees</a></p>
-                <p><strong>GitHub:</strong> <a href="https://github.com/nikfarees" target="_blank">github.com/nikfarees</a></p>
+                <p><strong>📧 Email:</strong> <a href="mailto:nfarees.faizal@gmail.com">nfarees.faizal@gmail.com</a></p>
+                <p><strong>📱 Phone:</strong> <a href="tel:+601175112905">+60 117 511 2905</a></p>
+                <p><strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/nikfarees" target="_blank">linkedin.com/in/nikfarees</a></p>
+                <p><strong>🐙 GitHub:</strong> <a href="https://github.com/NikFarees" target="_blank">github.com/NikFarees</a></p>
+                <p><strong>📍 Location:</strong> Kuala Lumpur, Malaysia</p>
+            </div>
+            <div style="margin-top: 2rem; padding: 1.5rem; background: var(--bg-secondary); border-radius: 8px; text-align: center;">
+                <p style="margin: 0.5rem 0;"><strong>🎯 Status:</strong> Available for full-time opportunities starting March 2026</p>
+                <p style="margin: 0.5rem 0; font-size: 0.95rem; color: var(--text-secondary);">Open to Remote, Hybrid, or On-site roles</p>
             </div>
         </section>
     </main>

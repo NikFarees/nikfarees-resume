@@ -94,3 +94,4 @@ This project is open source and available under the MIT License.
 - GitHub: [@NikFarees](https://github.com/NikFarees)
 - LinkedIn: [nikfarees](https://linkedin.com/in/nikfarees)
 - Email: nfarees.faizal@gmail.com
+

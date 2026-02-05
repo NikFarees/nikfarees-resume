@@ -1,5 +1,7 @@
 # Lecturer Assistant
 
+![LI Logo](/images/unikl-portal.png){ width=400 } { width=400 } 
+
 ## Position Details
 
 | | |
@@ -8,6 +10,7 @@
 | **Role** | Lecturer Assistant |
 | **Subject** | Principles of Computer Programming |
 | **Period** | October 2023 – March 2024 |
+| **Location** | 1016, Jln Sultan Ismail, Bandar Wawasan, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur |
 
 ## Overview
 
@@ -44,7 +47,7 @@ Served as a Lecturer Assistant for the Principles of Computer Programming course
 
 ## Key Takeaways
 
-::: info 💡 What I Learned
+::: info What I Learned
 This experience taught me that explaining concepts to others is one of the best ways to deepen your own understanding. It also showed me the importance of patience and adapting communication styles for different learners.
 :::
 

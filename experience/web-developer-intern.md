@@ -1,5 +1,7 @@
 # Web Developer Intern
 
+![LI Logo](/images/li-logo.png)
+
 ## Position Details
 
 | | |
@@ -7,7 +9,7 @@
 | **Company** | Latitude Innovation Sdn. Bhd. |
 | **Role** | Web Developer (Internship) |
 | **Period** | September 2025 – February 2026 |
-| **Location** | Kuala Lumpur, Malaysia |
+| **Location** | 13-03-02, Stellar Office Suites, Jln Puteri 4/7, Bandar Puteri, 47100 Puchong, Selangor |
 
 ## Overview
 
@@ -59,7 +61,7 @@ Currently completing industrial training as a Web Developer, working on multiple
 
 ## Key Achievements
 
-::: tip 🎯 Accomplishments
+::: tip Accomplishments
 - Successfully deployed multiple client websites
 - Implemented real-time features using WebSocket
 - Configured secure server environments

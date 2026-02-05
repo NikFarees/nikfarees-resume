@@ -4,7 +4,7 @@ This section covers my professional experience, including internships and academ
 
 ## Current Position
 
-::: info 💼 Web Developer Intern
+::: info Web Developer Intern
 **Latitude Innovation Sdn. Bhd.**  
 September 2025 – February 2026
 :::

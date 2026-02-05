@@ -1,6 +1,6 @@
 # Lecturer Assistant
 
-![LI Logo](/images/unikl-portal.png){ width=400 } { width=400 } 
+![LI Logo](/images/unikl-portal.png)
 
 ## Position Details
 

@@ -1,5 +1,7 @@
 # Overview
 
+![Nik Farees](/images/nikfarees.jpeg){ width=400 }
+
 ## Who I Am
 
 I'm **Nik Farees Bin Nik Faizal**, a Software Engineering student with strong backend and frontend development skills in Java, PHP, Python, C#, and MySQL.

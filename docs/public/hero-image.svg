@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5f67ee;stop-opacity:0.2" />
+      <stop offset="50%" style="stop-color:#747bff;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#9499ff;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="200" cy="200" r="180" fill="url(#heroGrad)" stroke="#5f67ee" stroke-width="2"/>
+  
+  <!-- Code brackets -->
+  <text x="80" y="220" font-family="monospace" font-size="120" fill="#5f67ee" opacity="0.6">&lt;</text>
+  <text x="260" y="220" font-family="monospace" font-size="120" fill="#5f67ee" opacity="0.6">/&gt;</text>
+  
+  <!-- Center symbol -->
+  <circle cx="200" cy="200" r="60" fill="#5f67ee"/>
+  <text x="200" y="218" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="white" text-anchor="middle">NF</text>
+  
+  <!-- Decorative dots -->
+  <circle cx="100" cy="100" r="8" fill="#747bff" opacity="0.5"/>
+  <circle cx="300" cy="100" r="6" fill="#9499ff" opacity="0.4"/>
+  <circle cx="100" cy="300" r="6" fill="#9499ff" opacity="0.4"/>
+  <circle cx="300" cy="300" r="8" fill="#747bff" opacity="0.5"/>
+</svg>

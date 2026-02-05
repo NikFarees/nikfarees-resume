@@ -1,0 +1,104 @@
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  title: "Nik Farees",
+  description: "Software Engineer & Productivity Consultant",
+  
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    ['meta', { name: 'theme-color', content: '#5f67ee' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Nik Farees - Resume' }],
+    ['meta', { property: 'og:description', content: 'Software Engineer & Productivity Consultant' }],
+  ],
+
+  themeConfig: {
+    logo: '/logo.svg',
+    siteTitle: 'Nik Farees',
+    
+    nav: [
+      { text: 'Home', link: '/' },
+      { text: 'About', link: '/about/overview' },
+      { text: 'Experience', link: '/experience/overview' },
+      { text: 'Projects', link: '/projects/overview' },
+      { text: 'Skills', link: '/skills/technical' },
+      { text: 'Contact', link: '/contact' }
+    ],
+
+    sidebar: {
+      '/about/': [
+        {
+          text: 'About Me',
+          items: [
+            { text: 'Overview', link: '/about/overview' },
+            { text: 'Background', link: '/about/background' },
+            { text: 'Goals', link: '/about/goals' }
+          ]
+        }
+      ],
+      '/experience/': [
+        {
+          text: 'Work Experience',
+          items: [
+            { text: 'Overview', link: '/experience/overview' },
+            { text: 'Web Developer Intern', link: '/experience/web-developer-intern' },
+            { text: 'Lecturer Assistant', link: '/experience/lecturer-assistant' }
+          ]
+        }
+      ],
+      '/projects/': [
+        {
+          text: 'Projects',
+          items: [
+            { text: 'Overview', link: '/projects/overview' },
+            { text: 'Gmart Online Auction', link: '/projects/gmart-auction' },
+            { text: 'School2U Bookshop', link: '/projects/school2u' },
+            { text: 'DriveFlow System', link: '/projects/driveflow' },
+            { text: 'Kidzenroll Network', link: '/projects/kidzenroll' },
+            { text: 'Atita Space Website', link: '/projects/atita-space' },
+            { text: 'SwatHub Documentation', link: '/projects/swathub-docs' }
+          ]
+        }
+      ],
+      '/skills/': [
+        {
+          text: 'Skills',
+          items: [
+            { text: 'Technical Skills', link: '/skills/technical' },
+            { text: 'Soft Skills', link: '/skills/soft-skills' },
+            { text: 'Certifications', link: '/skills/certifications' }
+          ]
+        }
+      ],
+      '/education/': [
+        {
+          text: 'Education',
+          items: [
+            { text: 'Overview', link: '/education/overview' },
+            { text: 'Achievements', link: '/education/achievements' },
+            { text: 'Activities', link: '/education/activities' }
+          ]
+        }
+      ]
+    },
+
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/NikFarees' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/nikfarees' }
+    ],
+
+    search: {
+      provider: 'local'
+    },
+
+    footer: {
+      message: 'Built with VitePress',
+      copyright: '© 2026 Nik Farees. All rights reserved.'
+    },
+
+    outline: {
+      level: [2, 3],
+      label: 'On this page'
+    }
+  }
+})

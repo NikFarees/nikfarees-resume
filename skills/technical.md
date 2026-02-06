@@ -49,7 +49,7 @@
   <div class="skill-item">Microsoft Office</div>
 </div>
 
-## Skill Proficiency
+<!-- ## Skill Proficiency
 
 | Skill | Level | Experience |
 |-------|-------|------------|
@@ -58,7 +58,7 @@
 | WordPress / WooCommerce | ⭐⭐⭐⭐⭐ | 2+ years |
 | MySQL | ⭐⭐⭐⭐⭐ | 3+ years |
 | Docker | ⭐⭐⭐⭐ | 1 year |
-| Git | ⭐⭐⭐⭐⭐ | 3+ years |
+| Git | ⭐⭐⭐⭐⭐ | 3+ years | -->
 
 ## What I'm Learning
 

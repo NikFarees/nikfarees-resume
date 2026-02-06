@@ -52,12 +52,22 @@ export default defineConfig({
                     text: 'Projects',
                     items: [
                         { text: 'Overview', link: '/projects/overview' },
-                        { text: 'eAuction Car System', link: '/projects/eauction-car-system' },
-                        { text: 'Bookshop System', link: '/projects/bookshop-system' },
-                        { text: 'Aircond Service System', link: '/projects/aircond-service-system' },
-                        { text: 'DriveFlow System', link: '/projects/driveflow' },
-                        { text: 'Preschool Network Websites', link: '/projects/preschool-network-websites' },
-                        { text: 'Consultancy Website', link: '/projects/consultancy-website' }
+                        {
+                            text: 'Internship Projects',
+                            items: [
+                                { text: 'eAuction Car System', link: '/projects/eauction-car-system' },
+                                { text: 'Aircond Service System', link: '/projects/aircond-service-system' },
+                                { text: 'Bookshop System', link: '/projects/bookshop-system' },
+                                { text: 'Preschool Network Websites', link: '/projects/preschool-network-websites' },
+                                { text: 'Consultancy Website', link: '/projects/consultancy-website' }
+                            ]
+                        },
+                        {
+                            text: 'Final Year Project',
+                            items: [
+                                { text: 'DriveFlow System', link: '/projects/driveflow' }
+                            ]
+                        }
                     ]
                 }
             ],

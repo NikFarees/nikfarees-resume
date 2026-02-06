@@ -91,7 +91,7 @@ Developed a comprehensive multi-vendor bookshop e-commerce platform for schools 
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - Multi-vendor systems require careful architectural planning to balance customization with maintainability
 - WooCommerce customization through hooks, filters, and custom plugins enables complex e-commerce scenarios
 - Automation tools (Python scripts, bulk operations) are critical for scaling operations quickly

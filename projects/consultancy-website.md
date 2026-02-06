@@ -79,7 +79,7 @@ Contributed to the development and deployment of a professional ESG (Environment
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - DNS configuration is critical for website infrastructure stability
 - Email testing and validation are essential before going live
 - SEO setup should be part of the initial deployment process

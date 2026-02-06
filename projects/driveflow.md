@@ -85,7 +85,7 @@ As the sole developer, I:
 
 ## Impact
 
-::: tip 🎯 Expected Outcomes
+::: tip Expected Outcomes
 - Replace manual paper-based operations
 - Centralize digital platform management
 - Streamline driving school operations
@@ -94,7 +94,7 @@ As the sole developer, I:
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - Full-stack development requires careful planning
 - User feedback is essential during development
 - Documentation helps during implementation

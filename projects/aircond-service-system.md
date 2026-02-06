@@ -82,7 +82,7 @@ A comprehensive multi-vendor air conditioning service management platform that c
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - Effective QA processes catch critical issues early and improve product reliability
 - Thoughtful UI design significantly impacts user satisfaction and adoption
 - Comprehensive documentation reduces onboarding time and support burden

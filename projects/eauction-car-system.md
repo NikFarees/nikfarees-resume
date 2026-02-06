@@ -82,7 +82,7 @@ A comprehensive web-based auction management system designed for financial insti
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - Real-time applications require careful consideration of scalability and connection management
 - WebSocket technology enables seamless live updates but demands robust error handling and fallback strategies
 - Payment integration requires strict security protocols and thorough testing to prevent transaction failures

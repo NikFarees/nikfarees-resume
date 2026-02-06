@@ -88,7 +88,7 @@ Developed and managed a comprehensive multi-site network for preschool instituti
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - Design-to-web conversion requires careful attention to responsive layouts and cross-browser compatibility
 - WordPress multisite networks streamline management but require robust DNS and subdomain planning
 - Cloudflare DNS configuration is critical for reliability and requires verification steps to avoid downtime

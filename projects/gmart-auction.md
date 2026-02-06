@@ -1,4 +1,4 @@
-# eAuction Car System - Malaysia's Biggest Online Auction
+# eAuction Car System
 
 ## Project Overview
 
@@ -82,7 +82,3 @@ Developed a live auction platform for real-time online bidding, serving as Malay
 - Proper testing with multiple concurrent users is essential
 :::
 
-## Screenshots
-
-
-*Screenshots available upon request*

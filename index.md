@@ -2,11 +2,8 @@
 layout: home
 hero:
   name: Nik Farees
-  text: Software Engineer | Full-Stack Web Developer
-  tagline: Building reliable web applications, integrating systems, and delivering practical digital solutions.
-  image:
-    src: /hero-image.svg
-    alt: Nik Farees
+  text: Full-Stack Software Engineer
+  tagline: Creating reliable web applications, developing robust systems, integrating platforms, and delivering practical digital solutions.
   actions:
     - theme: brand
       text: View Experience

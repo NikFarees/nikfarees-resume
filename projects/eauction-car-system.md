@@ -76,9 +76,23 @@ A comprehensive web-based auction management system designed for financial insti
 
 ## Lessons Learned
 
-::: info Key Takeaways
-- Real-time applications require careful consideration of scalability
-- WebSocket management is crucial for live features
-- Proper testing with multiple concurrent users is essential
+::: info 💡 Key Takeaways
+- Real-time applications require careful consideration of scalability and connection management
+- WebSocket technology enables seamless live updates but demands robust error handling and fallback strategies
+- Payment integration requires strict security protocols and thorough testing to prevent transaction failures
+- Multi-layered testing (unit, integration, load testing) is essential for financial systems
+- Client communication and training significantly reduce support issues and improve adoption
+- Docker containerization streamlines development and eliminates "works on my machine" problems
+- Database optimization is critical when handling high-frequency real-time transactions
 :::
+
+## Impact
+
+- Delivered a stable, production-ready auction platform handling concurrent bidders and real-time transactions
+- Reduced manual vehicle processing time through automated inventory and workflow management
+- Enabled financial institutions to efficiently liquidate vehicle inventory through transparent bidding
+- Improved system reliability through comprehensive testing and continuous monitoring
+- Enhanced client satisfaction through detailed documentation and user training programs
+- Established best practices for real-time system development within the organization
+- Provided stakeholders with actionable analytics and reporting for auction performance tracking
 

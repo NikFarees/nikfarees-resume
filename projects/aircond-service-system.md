@@ -42,8 +42,8 @@ A comprehensive multi-vendor air conditioning service management platform that c
 ## Technical Stack
 
 <div class="skills-grid">
-  <div class="skill-item">Laravel Filament</div>
   <div class="skill-item">Laravel</div>
+  <div class="skill-item">Filament</div>
   <div class="skill-item">Docker</div>
   <div class="skill-item">MySQL</div>
   <div class="skill-item">VitePress</div>

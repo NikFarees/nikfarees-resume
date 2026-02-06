@@ -12,7 +12,7 @@
 
 ## Description
 
-Developed a live auction platform for real-time online bidding, serving as Malaysia's biggest online auction marketplace.
+A comprehensive web-based auction management system designed for financial institutions to facilitate the sale of repossessed and collateral vehicles through online bidding. The platform streamlines the entire vehicle lifecycle, from intake and inventory management through condition assessment, listing creation, live bidding, to final sale completion and documentation. The system enables authorized bidders to participate in real-time auctions, submit competitive bids, and complete transactions securely. Built with institutional-grade security and compliance features, the platform supports multiple auction events, bidder authentication, automated notifications, and comprehensive reporting for stakeholders.
 
 ## Key Features
 

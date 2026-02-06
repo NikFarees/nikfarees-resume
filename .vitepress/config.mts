@@ -59,7 +59,7 @@ export default defineConfig({
                                 { text: 'Aircond Service System', link: '/projects/aircond-service-system' },
                                 { text: 'Bookshop System', link: '/projects/bookshop-system' },
                                 { text: 'Preschool Network Websites', link: '/projects/preschool-network-websites' },
-                                { text: 'Consultancy Website', link: '/projects/consultancy-website' }
+                                { text: 'ESG Consultancy Website', link: '/projects/consultancy-website' }
                             ]
                         },
                         {

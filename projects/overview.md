@@ -10,7 +10,7 @@ Projects completed during my internship at Latitude Innovation:
 - [Bookshop System](/projects/bookshop-system) - Online bookshop for schools
 - [Aircond Service System](/projects/aircond-service-system) - Aircond service system
 - [Preschool Network Websites](/projects/preschool-network-websites) - Preschool website network
-- [Consultancy Website](/projects/consultancy-website) - Consultancy website
+- [ESG Consultancy Website](/projects/consultancy-website) - ESG Consultancy website
 
 ### Academic Projects
 - [DriveFlow](/projects/driveflow) - Driving school management (Final year project) 

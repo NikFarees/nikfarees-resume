@@ -39,8 +39,8 @@ Explore my background, projects, and education.
 - [View full experience →](/experience/overview)
 
 ### Projects
-- **Gmart** : Real-time online auction platform
-- **SwatHub** : Aircond service system
+- **eAuction Car System** : Real-time online auction platform
+- **Aircond Service System** : Aircond service system
 - **DriveFlow** : Driving school management system (Final Year Project)
 - [View all projects →](/projects/overview)
 

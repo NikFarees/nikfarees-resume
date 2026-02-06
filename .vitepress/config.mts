@@ -52,12 +52,12 @@ export default defineConfig({
                     text: 'Projects',
                     items: [
                         { text: 'Overview', link: '/projects/overview' },
-                        { text: 'Gmart Online Auction', link: '/projects/gmart-auction' },
-                        { text: 'School2U Bookshop', link: '/projects/school2u' },
+                        { text: 'eAuction Car System ', link: '/projects/gmart-auction' },
+                        { text: 'Bookshop System', link: '/projects/school2u' },
+                        { text: 'Aircond Service System', link: '/projects/swathub-docs' },
                         { text: 'DriveFlow System', link: '/projects/driveflow' },
-                        { text: 'Kidzenroll Network', link: '/projects/kidzenroll' },
-                        { text: 'Atita Space Website', link: '/projects/atita-space' },
-                        { text: 'SwatHub Documentation', link: '/projects/swathub-docs' }
+                        { text: 'Preschool Network Websites', link: '/projects/kidzenroll' },
+                        { text: 'Consultancy Website', link: '/projects/atita-space' }
                     ]
                 }
             ],

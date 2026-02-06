@@ -1,10 +1,10 @@
-# Gmart - Malaysia's Biggest Online Auction
+# eAuction Car System - Malaysia's Biggest Online Auction
 
 ## Project Overview
 
 | | |
 |---|---|
-| **Project** | Gmart Online Auction Platform |
+| **Project** | eAuction Car System Platform |
 | **Type** | Internship Project |
 | **Role** | Full-Stack Developer |
 | **Period** | September 2025 – February 2026 |
@@ -24,7 +24,7 @@ Developed a live auction platform for real-time online bidding, serving as Malay
 ### Secure Transactions
 - **MySQL database** for secure data management
 - User authentication and authorization
-- Secure payment processing integration
+- Secure payment processing integration using **Razorpay**
 
 ### Modern Architecture
 - **Laravel backend** with Filament admin panel
@@ -44,40 +44,45 @@ Developed a live auction platform for real-time online bidding, serving as Malay
 
 ## My Contributions
 
-### Development
-- Built the backend using Laravel Filament
-- Developed the frontend using Next.js
-- Implemented WebSocket for instant live bid updates
+### Backend Development
+- Built and maintained backend features using Laravel Filament
+- Ensured backend functions correctly processed and displayed data received from WebSocket events
+- Maintained database structure and handled migrations
 
-### DevOps
-- Deployed application using Docker
-- Configured production environment
+### Frontend Collaboration
+- Assisted frontend developers with design ideas and feedback
+- Contributed to some frontend code as needed
 
-### Quality Assurance
-- Involved in client training sessions
+### DevOps & Docker
+- Entered Docker containers to update database, run migrations, or execute `npm run build` to keep code up to date
+
+### Quality Assurance & Client Support
+- Attended client meetings to gather requirements, present, and explain new features and functions
+- Provided client training, including creating video tutorials
 - Performed system testing and debugging
-- Created technical documentation
+- Wrote technical documentation
 
 ## Challenges & Solutions
 
-### Challenge 1: Real-time Updates
-**Problem:** Ensuring all users see bid updates instantly without page refresh.
+### Challenge 1: Learning New Technologies
+**Problem:** This was my first time working with Laravel Filament, WebSocket, and Docker containers.
 
-**Solution:** Implemented WebSocket connections with fallback polling for reliability.
+**Solution:** Invested time in self-learning, reading documentation, and hands-on practice to become productive with these tools.
 
-### Challenge 2: Concurrent Bidding
-**Problem:** Multiple users bidding simultaneously could cause race conditions.
+### Challenge 2: Ensuring Backend Logic Correctness
+**Problem:** Needed to make sure backend logic was 100% correct and bug-free, especially when handling real-time data and user actions.
 
-**Solution:** Implemented database transactions and locking mechanisms.
+**Solution:** Carefully tested backend functions, validated data from WebSocket events, and performed thorough debugging to ensure reliability.
 
 ## Lessons Learned
 
-::: info 💡 Key Takeaways
+::: info Key Takeaways
 - Real-time applications require careful consideration of scalability
 - WebSocket management is crucial for live features
 - Proper testing with multiple concurrent users is essential
 :::
 
 ## Screenshots
+
 
 *Screenshots available upon request*

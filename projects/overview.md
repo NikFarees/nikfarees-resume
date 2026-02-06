@@ -4,29 +4,30 @@ This section showcases my digital project experience, including internship proje
 
 ## Project Categories
 
-### 🏢 Internship Projects
+### Internship Projects
 Projects completed during my internship at Latitude Innovation:
-- [Gmart Online Auction](/projects/gmart-auction) - Malaysia's biggest online auction
-- [School2U Bookshop](/projects/school2u) - Online bookshop for schools
-- [SwatHub Documentation](/projects/swathub-docs) - Technical documentation site
+- [eAuction Car System](/projects/gmart-auction) - Malaysia's biggest online auction
+- [Bookshop System](/projects/school2u) - Online bookshop for schools
+- [Aircond Service System](/projects/swathub-docs) - Aircond service system
+- [Preschool Network Websites](/projects/kidzenroll) - Preschool website network
+- [Consultancy website](/projects/atita-space) - Consultancy website
 
-### 🎓 Academic Projects
-- [DriveFlow](/projects/driveflow) - Final year project (Driving school management)
+### Academic Projects
+- [DriveFlow](/projects/driveflow) - Driving school management (Final year project) 
 
-### 🌐 Freelance/Personal Projects
-- [Kidzenroll Network](/projects/kidzenroll) - Preschool website network
-- [Atita Space](/projects/atita-space) - Consultancy website
+### Freelance/Personal Projects
+- ...
 
-## Project Highlights
+<!-- ## Project Highlights
 
 | Project | Type | Technologies |
 |---------|------|--------------|
-| Gmart | Live Auction Platform | Laravel, Next.js, WebSocket |
+| Gmart | Live Auction Platform | Laravel, Filament, Next.js, WebSocket |
 | School2U | E-commerce | WordPress, WooCommerce, PHP |
 | DriveFlow | Management System | PHP, MySQL, Bootstrap |
 | Kidzenroll | Multi-site Network | WordPress, Cloudflare |
 | Atita Space | Business Website | WordPress |
-| SwatHub Docs | Documentation | VitePress, Markdown |
+| SwatHub Docs | Aircond service system | Laravel, Filament, VitePress, Markdown | -->
 
 ## Skills Demonstrated
 
@@ -37,6 +38,6 @@ Through these projects, I've demonstrated proficiency in:
 - **Deployment** and server configuration
 - **Technical documentation**
 
-::: tip 💡 Project Selection
+::: tip Project Selection
 Click on any project to see detailed information including challenges faced, solutions implemented, and lessons learned.
 :::

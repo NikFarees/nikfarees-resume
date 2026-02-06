@@ -18,15 +18,15 @@ I'm passionate about:
 
 ## Location
 
-📍 **Kuala Lumpur, Malaysia**
+**Kuala Lumpur, Malaysia**
 
 ## Current Status
 
-::: info 🎓 Education
+::: info Education
 Final year student at University Kuala Lumpur (UniKL MIIT), expected graduation February 2026.
 :::
 
-::: tip 💼 Internship
+::: tip Internship
 Currently completing industrial training at Latitude Innovation Sdn. Bhd. as a Web Developer.
 :::
 
@@ -35,4 +35,4 @@ Currently completing industrial training at Latitude Innovation Sdn. Bhd. as a W
 - Email: [nfarees.faizal@gmail.com](mailto:nfarees.faizal@gmail.com)
 - LinkedIn: [linkedin.com/in/nikfarees](https://linkedin.com/in/nikfarees)
 - GitHub: [github.com/NikFarees](https://github.com/NikFarees)
-- Phone: +601175112905
+- Phone: [+601175112905](https://wa.me/1175112905) 

@@ -1,10 +1,10 @@
-# Atita Space - Consultancy Website
+# Consultancy Website
 
 ## Project Overview
 
 | | |
 |---|---|
-| **Project** | Atita Space Website |
+| **Project** | Consultancy Website |
 | **Type** | Internship Project |
 | **Role** | Web Developer |
 | **Period** | September 2025 – February 2026 |

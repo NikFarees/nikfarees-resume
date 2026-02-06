@@ -52,12 +52,12 @@ export default defineConfig({
                     text: 'Projects',
                     items: [
                         { text: 'Overview', link: '/projects/overview' },
-                        { text: 'eAuction Car System ', link: '/projects/gmart-auction' },
-                        { text: 'Bookshop System', link: '/projects/school2u' },
-                        { text: 'Aircond Service System', link: '/projects/swathub-docs' },
+                        { text: 'eAuction Car System', link: '/projects/eauction-car-system' },
+                        { text: 'Bookshop System', link: '/projects/bookshop-system' },
+                        { text: 'Aircond Service System', link: '/projects/aircond-service-system' },
                         { text: 'DriveFlow System', link: '/projects/driveflow' },
-                        { text: 'Preschool Network Websites', link: '/projects/kidzenroll' },
-                        { text: 'Consultancy Website', link: '/projects/atita-space' }
+                        { text: 'Preschool Network Websites', link: '/projects/preschool-network-websites' },
+                        { text: 'Consultancy Website', link: '/projects/consultancy-website' }
                     ]
                 }
             ],

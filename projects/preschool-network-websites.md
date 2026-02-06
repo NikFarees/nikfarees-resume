@@ -1,10 +1,10 @@
-# Kidzenroll - Preschool Website Network
+# Preschool Network Websites
 
 ## Project Overview
 
 | | |
 |---|---|
-| **Project** | Kidzenroll Website Network |
+| **Project** | Preschool Network Websites |
 | **Type** | Internship Project |
 | **Role** | Web Developer |
 | **Period** | September 2025 – February 2026 |

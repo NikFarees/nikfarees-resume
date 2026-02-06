@@ -71,6 +71,6 @@ Currently completing industrial training as a Web Developer, working on multiple
 ## Projects Worked On
 
 During this internship, I contributed to several projects:
-- [eAuction Car System](/projects/gmart-auction)
-- [Bookshop System](/projects/school2u)
-- [Aircond Service System](/projects/swathub-docs)
+- [eAuction Car System](/projects/eauction-car-system)
+- [Bookshop System](/projects/bookshop-system)
+- [Aircond Service System](/projects/aircond-service-system)

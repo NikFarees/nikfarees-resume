@@ -1,10 +1,10 @@
-# School2U - Online Bookshop System
+# Bookshop System
 
 ## Project Overview
 
 | | |
 |---|---|
-| **Project** | School2U Bookshop Platform |
+| **Project** | Bookshop System |
 | **Type** | Internship Project |
 | **Role** | Full-Stack Developer |
 | **Period** | September 2025 – February 2026 |

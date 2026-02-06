@@ -46,21 +46,27 @@ A comprehensive web-based auction management system designed for financial insti
 
 ### Backend Development
 - Built and maintained backend features using Laravel Filament
-- Ensured backend functions correctly processed and displayed data received from WebSocket events
-- Maintained database structure and handled migrations
+- Processed and displayed data received from WebSocket events
+- Maintained database structure and managed migrations
+- Ensured backend functions operated correctly and consistently
 
 ### Frontend Collaboration
-- Assisted frontend developers with design ideas and feedback
-- Contributed to some frontend code as needed
+- Assisted frontend developers with design ideas and UI feedback
+- Contributed to frontend code when required
+- Collaborated to align backend data with frontend display needs
+- Supported implementation of feature improvements across UI components
 
 ### DevOps & Docker
-- Entered Docker containers to update database, run migrations, or execute `npm run build` to keep code up to date
+- Entered Docker containers to perform system updates
+- Executed database migrations inside containers
+- Ran build commands such as `npm run build`  to update frontend assets
+- Helped maintain up-to-date development and production environments
 
 ### Quality Assurance & Client Support
-- Attended client meetings to gather requirements, present, and explain new features and functions
-- Provided client training, including creating video tutorials
+- Attended client meetings to gather requirements and present features
+- Provided client training and created video tutorials
 - Performed system testing and debugging
-- Wrote technical documentation
+- Wrote and maintained technical documentation
 
 ## Challenges & Solutions
 

@@ -62,7 +62,7 @@
 
 ## What I'm Learning
 
-::: tip 🚀 Currently Exploring
+::: tip Currently Exploring
 - Cloud services (AWS/Azure)
 - Advanced Docker orchestration
 - CI/CD pipelines

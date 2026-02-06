@@ -15,8 +15,8 @@ Projects completed during my internship at Latitude Innovation:
 ### Academic Projects
 - [DriveFlow](/projects/driveflow) - Driving school management (Final year project) 
 
-### Freelance/Personal Projects
-- ...
+<!-- ### Freelance/Personal Projects
+- ... -->
 
 <!-- ## Project Highlights
 

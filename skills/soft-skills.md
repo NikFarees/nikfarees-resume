@@ -9,8 +9,8 @@
 - Cross-team collaboration
 
 ### Languages
-- 🇲🇾 **Bahasa Melayu** - Native
-- 🇬🇧 **English** - Professional working proficiency
+- **Bahasa Melayu** - Native
+- **English** - Professional working proficiency
 
 ## Teamwork
 
@@ -63,6 +63,6 @@
 - Coordinated with stakeholders
 - Managed project timeline and deliverables
 
-::: info 💡 Personal Philosophy
+::: info Personal Philosophy
 I believe in continuous improvement and learning from both successes and failures. Every challenge is an opportunity to grow.
 :::

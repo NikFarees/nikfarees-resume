@@ -1,75 +1,80 @@
 # Nik Farees - Resume Website
 
-A modern, VitePress-powered resume website with a clean documentation-style design.
+A modern, professional resume website built with VitePress featuring a clean documentation-style design and comprehensive portfolio presentation.
 
-## 🌟 Features
+## Features
 
-- **Modern Design** - Clean, professional documentation-style layout
-- **Dark/Light Theme** - Automatic theme switching support
-- **Search Functionality** - Built-in local search
-- **Responsive** - Works on all devices
-- **Fast** - Static site generation with VitePress
+- Modern responsive design with clean documentation-style layout
+- Dark and light theme support with automatic switching
+- Built-in local search functionality
+- Mobile-friendly and works across all devices
+- Fast static site generation powered by VitePress
 
-## 📁 Structure
+## Project Structure
 
 ```
-docs/
-├── .vitepress/
-│   ├── config.mts        # VitePress configuration
-│   └── theme/
-│       ├── index.ts      # Theme setup
-│       └── custom.css    # Custom styles
-├── public/               # Static assets
-├── about/                # About section
-├── experience/           # Work experience
-├── projects/             # Project portfolio
-├── skills/               # Skills & certifications
-├── education/            # Education & achievements
-├── contact.md            # Contact information
-└── index.md              # Home page
+.
+├── .vitepress/               # VitePress configuration directory
+│   ├── config.mts            # Site configuration
+│   └── theme/                # Theme customization
+│       ├── index.ts          # Theme setup
+│       └── custom.css        # Custom styles
+├── public/                   # Static assets and images
+├── about/                    # About section
+├── contact.md                # Contact information
+├── education/                # Education details
+├── experience/               # Work experience
+├── projects/                 # Project portfolio
+├── skills/                   # Skills and certifications
+└── index.md                  # Home page
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-### Prerequisites
+### Requirements
 
-- Node.js 18+
-- npm or yarn
+- Node.js 18 or higher
+- npm or yarn package manager
 
 ### Installation
 
 ```bash
-cd docs
 npm install
 ```
 
-### Development
+### Development Server
+
+Start the local development server:
 
 ```bash
 npm run docs:dev
 ```
 
-Visit `http://localhost:5173` to view the site.
+The site will be available at `http://localhost:5173`
 
-### Build
+### Build for Production
+
+Generate static files for deployment:
 
 ```bash
 npm run docs:build
 ```
 
-The built files will be in `.vitepress/dist/`.
+Built files are output to `.vitepress/dist/`
 
-### Preview Build
+### Preview Production Build
+
+Preview the production build locally:
 
 ```bash
 npm run docs:preview
 ```
 
-## 🎨 Customization
+## Customization
 
-### Colors
+### Theme Colors
 
-Edit `.vitepress/theme/custom.css` to change the color scheme:
+Modify `.vitepress/theme/custom.css` to change the color scheme:
 
 ```css
 :root {
@@ -79,19 +84,19 @@ Edit `.vitepress/theme/custom.css` to change the color scheme:
 }
 ```
 
-### Navigation
+### Navigation and Sidebar
 
-Edit `.vitepress/config.mts` to modify the navigation and sidebar.
+Edit `.vitepress/config.mts` to customize navigation menus and sidebar configuration.
 
-## 📄 License
+## License
 
-This project is open source and available under the MIT License.
+This project is open source under the MIT License.
 
-## 👤 Author
+## Author
 
-**Nik Farees Bin Nik Faizal**
+Nik Farees Bin Nik Faizal
 
-- GitHub: [@NikFarees](https://github.com/NikFarees)
+- GitHub: [NikFarees](https://github.com/NikFarees)
 - LinkedIn: [nikfarees](https://linkedin.com/in/nikfarees)
 - Email: nfarees.faizal@gmail.com
 

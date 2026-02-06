@@ -44,12 +44,12 @@ Developed and managed a comprehensive multi-site network for preschool instituti
 ## Technical Stack
 
 <div class="skills-grid">
-  <div class="skill-item">WordPress</div>
-  <div class="skill-item">Cloudflare</div>
-  <div class="skill-item">DNS Management</div>
-  <div class="skill-item">SEO</div>
+  <div class="skill-item">WordPress (Elementor)</div>
+  <div class="skill-item">Cloudflare DNS</div>
+  <div class="skill-item">cPanel</div>
+  <div class="skill-item">HTML</div>
+  <div class="skill-item">CSS</div>
   <div class="skill-item">Google Search Console</div>
-  <div class="skill-item">HTML/CSS</div>
 </div>
 
 ## My Contributions
